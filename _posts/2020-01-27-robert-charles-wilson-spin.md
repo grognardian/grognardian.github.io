@@ -4,7 +4,7 @@ title: "Spin by Robert Charles Wilson"
 description: "Review of Spin by Robert Charles Wilson"
 excerpt_separator: "<!--more-->"
 categories: [Literature]
-tags: [book, review, science fiction, novel]
+tags: [review, science fiction, novel]
 image:
  path: "/assets/images/spin.jpg"
  thumbnail: "assets/images/spin_th.jpg"

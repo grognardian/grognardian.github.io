@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Rubber, en film av Quentin Dupieux"
-description: "Review of Rubber by G. Quentin Dupieux, Norwegian text"
+title: "Svidd gummi"
+description: "Review of Rubber by Quentin Dupieux, Norwegian text"
 excerpt_separator: "<!--more-->"
 categories: [Film]
-tags: [review, norwegian]
+tags: [review, norwegian, weird]
 image:
  path: "/assets/images/rubber.jpg"
  thumbnail: "/assets/images/rubber_th.jpg"

@@ -4,7 +4,7 @@ title: "A Field in England (Ben Wheatley, 2013)"
 description: "Review of A Field in England, directed by Ben W/heatley"
 excerpt_separator: "<!--more-->"
 categories: [Film]
-tags: [review, horror, history]
+tags: [review, horror, history, weird]
 image:
  path: "/assets/images/A-Field-in-England.jpg"
  thumbnail: "/assets/images/A-Field-in-England_th.jpg"
