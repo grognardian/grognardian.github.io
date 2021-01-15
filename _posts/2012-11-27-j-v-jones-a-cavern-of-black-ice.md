@@ -3,6 +3,7 @@ layout: post
 title: "A Cavern of Black Ice (J.V.Jones)"
 description: "Review of A Cavern of Black Ice by J.V. Jones"
 tags: [review, fantasy, novel, norwegian]
+categories: [literature]
 image:
  path: "/assets/images/a-cavern-of-black-ice.jpg"
  thumbnail: "assets/images/a-cavern-of-black-ice_th.jpg"
