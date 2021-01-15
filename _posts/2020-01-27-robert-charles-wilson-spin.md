@@ -1,20 +1,18 @@
 ---
+layout: post
 title: "Spin by Robert Charles Wilson"
+description: "Review of Spin by Robert Charles Wilson"
 excerpt_separator: "<!--more-->"
-categories:
-  - Literature
-tags:
-  - book
-  - review
-  - science fiction
-  - novel
+categories: [Literature]
+tags: [book, review, science fiction, novel]
+image:
+ path: "/assets/images/spin.jpg"
+ thumbnail: "assets/images/spin_th.jpg"
 ---
 
 The first book in the *Spin Saga Trilogy* by [Robert Charles Wilson](https://www.robert-charles-wilson.com/) is a fantastic science fiction novel with a grandiose theme, yet with totally human, and actually humanistic, characters. *Spin* won the Hugo-award for best novel in 2006.
 
 <!--more-->
-
-![Spin Cover]({{site.url}}/assets/images/Spin.jpg)
 
 The novel follows two storylines involving the three same characters in different times in their lives. The first tells the tale of the two siblings Jason and Diane Lawton through the eyes of their best friend Tyler Dupree. As they grow up their different personalities forms and without knowing it they will all in their own way play an important part in the things to come.
 

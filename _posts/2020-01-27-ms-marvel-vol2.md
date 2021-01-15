@@ -1,19 +1,18 @@
 ---
+layout: post
 title: "Ms. Marvel Vol 2. by G. Willow Wilson"
+description: "Review of Ms. Marvel Vol .2 by G. Willow Wilson"
 excerpt_separator: "<!--more-->"
-categories:
-  - Comics
-tags:
-  - superheroes
-  - review
-  - marvel
+categories: [Comics]
+tags: [superheroes, review, marvel]
+image:
+ path: "/assets/images/msmarvel2.jpg"
+ thumbnail: "/assets/images/msmarvel2_th.jpg"
 ---
 
 While the first volume of the collected editions of [G. Willow Wilson](https://www.gwillowwilson.com/)'s new muslim, and very cool superhero *Ms. Marvel* was excellent in every way, this second collection of the comic series takes Kamala Khan's story further with some major Marvel Universe event happening in the background and suffers for it.
 
 <!--more-->
-
-![Ms. Marvel Vol 2 Cover]({{site.url}}/assets/images/msmarvel2.jpg)
 
 Ms. Marvel was fresh breath of air, and the origin story took me back to childhood experience with superhero comics, most notably my introduction to Spider-Man. What I believe I sometimes miss from modern superhero comics is a believable insight into the characters real life, and how the superhero and weird stuff makes this life both difficult and messed up. Ms. Marvel hit it on the head from the start, and it continues quite well in this second collection. In this story Kamala even have to cope with love, and she discovers that her secret identity might not be so secret as she believes. She even gets to meet, and fight alongside her hero Captain Marvel.
 
