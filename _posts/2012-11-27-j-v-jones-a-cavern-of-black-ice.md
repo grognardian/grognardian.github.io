@@ -2,6 +2,7 @@
 layout: post
 title: "A Cavern of Black Ice (J.V.Jones)"
 description: "Review of A Cavern of Black Ice by J.V. Jones"
+author: Gunnar Bangsmoen
 tags: [review, fantasy, novel, norwegian]
 categories: [Literature]
 image:

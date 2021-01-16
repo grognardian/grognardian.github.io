@@ -2,6 +2,7 @@
 layout: post
 title: "Ms. Marvel Vol 2. by G. Willow Wilson"
 description: "Review of Ms. Marvel Vol .2 by G. Willow Wilson"
+author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [Comics]
 tags: [superheroes, review, marvel]

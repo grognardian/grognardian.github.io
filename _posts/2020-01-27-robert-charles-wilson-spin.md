@@ -2,6 +2,7 @@
 layout: post
 title: "Spin by Robert Charles Wilson"
 description: "Review of Spin by Robert Charles Wilson"
+author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [Literature]
 tags: [review, science fiction, novel]

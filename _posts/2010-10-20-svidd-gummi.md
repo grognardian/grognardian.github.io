@@ -2,6 +2,7 @@
 layout: post
 title: "Svidd gummi"
 description: "Review of Rubber by Quentin Dupieux, Norwegian text"
+author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [Film]
 tags: [review, norwegian, weird]

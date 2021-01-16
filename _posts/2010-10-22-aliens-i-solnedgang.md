@@ -2,6 +2,7 @@
 layout: post
 title: "Aliens i solnedgang"
 description: "Review of Monsters by Gareth Edwards, Norwegian text"
+author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [Film]
 tags: [science fiction, review, norwegian]

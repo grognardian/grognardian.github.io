@@ -1,16 +1,27 @@
-# Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Gunnar Bangsmoen:
+  name: Gunnar Bangsmoen
+  picture: /assets/images/profile_150x150.jpg
+  instagram: "@acquisition_disorder"
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: Mastodon
+      url: http://tabletop.social/@gunnar
+      icon: fab fa-mastodon
+    - title: Instagram
+      url: https://instagram.com/acquisition_disorder
+      icon: fab fa-instagram
+    - title: last.fm
+      url: http://last.fm/user/gbang
+      icon: fab fa-lastfm	
+    - title: 500.px
+      url: http://500px.com/p/gunnarb
+      icon: fab fa-500px
+    - title: facebook
+      url: http://facebook.com/bangsmoen
+      icon: fab fa-facebook
+    - title: Steam
+      url: http://steamcommunity.com/id/gbangsmo
+      icon: fab fa-steam
+    - title: Linux
+      icon: fab fa-linux	

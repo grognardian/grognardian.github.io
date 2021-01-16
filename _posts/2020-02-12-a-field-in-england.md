@@ -2,6 +2,7 @@
 layout: post
 title: "A Field in England (Ben Wheatley, 2013)"
 description: "Review of A Field in England, directed by Ben W/heatley"
+author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [Film]
 tags: [review, horror, history, weird]
