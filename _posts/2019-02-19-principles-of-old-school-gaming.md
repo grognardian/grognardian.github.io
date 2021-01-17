@@ -11,11 +11,9 @@ image:
  thumbnail: "/assets/images/medieval_th.jpg"
 ---
 
-I've been toying with the idea of writing my own little **Player's Handbook** for possible forthcoming old school games. I'm currently playing, and enjoying, a *Castles & Crusades*-campaign, with some modified rules, but real old school it definitely isn't. The simplified, combined with the improvisational and procedural, rules of old school is becoming more and more appealing to me, and I need to solidify and put to paper what I ideally would like to play. In the process I will pick and choose from my betters of course. Many blogs are inspiring, and also rulesets like *Labyrinth Lord*, *The Black Hack* and even maybe the slick skill-solution from *Castles & Crusades* will possibly be a part of my house rules.
+I've been toying with the idea of writing my own little **Player's Handbook** for possible forthcoming old school games. I'm currently playing, and enjoying, a *Castles & Crusades*-campaign, with some modified rules, but real old school it definitely isn't. The simplified, combined with the improvisational and procedural, rules of old school is becoming more and more appealing to me, and I need to solidify and put to paper what I ideally would like to play.  <!--more--> In the process I will pick and choose from my betters of course. Many blogs are inspiring, and also rulesets like *Labyrinth Lord*, *The Black Hack* and even maybe the slick skill-solution from *Castles & Crusades* will possibly be a part of my house rules.
 
 However, before I begin the process of putting the rules together I need to define some of the principles of old school gaming.
-
-<!--more-->
 
 ### What is the game **about**?
 
