@@ -1,0 +1,36 @@
+---
+layout: post
+title: "The high cost of gaming"
+description: "A reply to an article about how gamers seldom want to pay the real price of what a game should be worth."
+author: Gunnar Bangsmoen
+excerpt_separator: "<!--more-->"
+categories: [Writing]
+tags: [ideas, gaming, response]
+image:
+ path: "/assets/images/writing.jpg"
+ thumbnail: "/assets/images/writing_th.jpg"
+---
+
+Christopher Helton has written a so called Industry-article on ENWorld about how RPG-gamers are cheapskates that won’t pay what games are worth (**Edit:** the article has since been removed but [can still be read via Wayback Machine](https://web.archive.org/web/20160811155800/http://www.enworld.org/forum/content.php?3410-Why-We-Need-To-Pay-What-Games-Are-Worth-Not-What-We-Think-They-Should-Cost=)). Consequently game designers can’t make a decent living doing what they love.
+
+<!--more-->
+
+Although sentimentally praiseworthy I feel the article is both a little biased, and grounded on some misconceptions. I must stress that I have nothing against the author, nor the game creators mentioned and I don’t live in the US nor have any personal, professional or economic ties to the RPG business. I’m just a game collector and gamer with a keyboard.
+
+Firstly, telling the customers and the fan base that they are cheapskates and really don’t appreciate the effort it takes to create a game is both rude and beside the point. The customers should not have to worry about this. If the product you are making and selling is priced too low it’s not my problem. It’s yours. Frankly I don’t care if you can’t make a business plan that will give you sustainability or a fair income. You are in fact selling a product, i.e. taking my money for something you made, and if you want to keep making such products it is your freaking job to make it worthwhile.
+
+Buying games is a hobby of mine and I want to keep doing it even if I get to play only a few of the games I buy. I know I’m not the only one. Of course it saddens me to hear that elderly game creators with failing health are having a hard time making ends meet and paying their medical bills. It must be clear however that even though this has everything to do with them running a business and selling at an appropriate price point it is still on them and not the customers. I don’t want to sound overly cynical, but insufficient funds to pay medical bills is a problem with the political system and not limited to the gaming business. We don’t buy games to support publishers. We buy games to play (or collect) them, and if that happens to coincide with you making a living we are all better off because of it. Please don’t make me feel like I’m donating to charity when I’m buying your products or jumping on your big yearly sale. You made this and you control it. You are running a shop and I’m your customer. Basically there is no “us”, besides the transaction of money and product. If there is any social interaction it is still on you. You decide how to interact with the fan base and the customers and if you do it in a friendly matter that is on you. No one can make a living or secure sustainability by selling services or products only to their “friends and family”.
+
+> “Game creators aren’t getting any younger”.
+
+
+
+Except when they are. Some game creators aren’t getting any younger. Some have been making games for decades. So what? If anything, this logic makes it seem impossible for young game creators to make a niche and place for themselves in the business. It is not, but it is really hard. Buying games is not a campaign to support your elders. It is not the customers task to keep creators in the business. It is not the customers task to support a hierarchy of publishers. It is not the customers task to care for antiquated business models.
+
+Yes, workers deserve to be paid a living wage. As a citizen of a Western country and a member of a labors union it is one of my fundamental beliefs. If you are a worker, working for the man, you should be secured at least a wage to live off, and if you don’t it is a case for the labors union. As a freelancer though, you are on your own. Likewise if you are the business owner. However unfair it may seem you are effectively “the man”. You pay the wages and it is your responsibility that they are fair. If your product can’t support these wages it is still not your customers fault. This is the system we have chosen to adhere to and it is rarely fair or even logical. Sometimes I believe it also damaging to creativity and life as a whole, but it is what we got and you need to work it. If your production don’t support the hours you put into it you need to make better products or maybe make other products. This is the system. It may be bad, it may be unfair and even rotten, but there are examples of success. Usually though, it is not possible to get paid following a dream. It is still not the customers fault.
+
+There is a lot of work and resources that are required to produce a game. Even if it is shitty. The art, writing, editing, layout, testing and of course the physical components all cost money and effort. This is not for the customer to know. It needs to be shown in the product, and even then the chance is most won’t care. If your product won’t sell at the price you decide chances are pretty good that it won’t sell very much at all. As with every other industry or business, and also life in general, success is not guaranteed. And it is hard work. Really hard. But it still not the customers fault if it fails. It is on you.
+
+The gaming industry is actually blessed. It is blessed with a cornucopia of games. There is a game for everyone. Sadly it is not everyone for a game and therein lies the problem. There are simply too many games that will never be played. The industry is also blessed with a large group of collectors. We want games not necessary to play, but to keep, collect and cherish. This is important. Your precious creation might never see the table, but it will be sold and bought. Your creation might be beautiful and inspired, it might be a work of art, but it might also be fiddly, over-complicated, unpractical or even broken. It might be a poem in a language known only to the poet. It is collectible, but unplayable. The industry might in fact be reliant on a few completists and with that it has suffered some staleness, forward thinking and evolution.
+
+Pricing is a sore thumb in almost all of the entertainment business. There are so many offering different shades of the same thing, and the thing in question is more often than not extremely time consuming. RPGs is mostly not meant for casual play. It offers immersion, complexity and demands dedication. In that sense it is limited, but I will still guess that most gamers have more games than they have actually played. We need to buy “just one more book” because it is “cool”, or “it might be useful”. Together with the completists we are creating a false market. We are creating a sense of demand that is not factual, that is not real. If the customers are faulty of anything it is this. We buy too much of what is offered. A higher price point could remedy that, but I’m not sure if that is wise from a moneymaking perspective.

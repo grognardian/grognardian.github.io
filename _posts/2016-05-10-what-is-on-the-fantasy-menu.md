@@ -5,7 +5,7 @@ description: "A table for discovering what could be on the menu at an inn fantas
 author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [RPG]
-tags: [food, fantasy, history, tables]
+tags: [food, fantasy, history, tables, dnd]
 image:
  path: "/assets/images/fantasy_menu.jpg"
  thumbnail: "/assets/images/fantasy_menu_th.jpg"
