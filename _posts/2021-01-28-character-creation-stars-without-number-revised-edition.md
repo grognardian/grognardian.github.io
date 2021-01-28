@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Character Creation: Stars Without Number"
-description: "How to create a character in the Stars Without Number"
+title: "Character Creation: Stars Without Number (Revised Edition)"
+description: "How to create a character in the Stars Without Number (Revised Edition)"
 author: Gunnar Bangsmoen
 excerpt_separator: "<!--more-->"
 categories: [RPG]
@@ -12,7 +12,7 @@ image:
 
 ---
 
-_Stars Without Number_ does a pretty good job of making character creation a streamlined and easy process. On page 4 we find a numbered walkthrough on how to make a character. Let's try.
+_Stars Without Number (Revised Edition)_ does a pretty good job of making character creation a streamlined and easy process. On page 4 we find a numbered walkthrough on how to make a character. Let's try.
 
 <!--more-->
 
